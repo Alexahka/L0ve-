@@ -55,18 +55,4 @@
         }
 
         .button:hover {
-            background-color: darkred;
-        }
-    </style>
-</head>
-<body>
-
-    <div class="marquee">
-        <span>Проверь свои подарки</span>
-    </div>
-
-    <button class="button">Проверь выигрыш</button>
-
-</body>
-</html>
-
+            backgro
